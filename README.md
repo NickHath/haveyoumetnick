@@ -1,1 +1,1 @@
-# Rebuilding my personal site as a blog.
+# Rebuilding my personal site as a blog
