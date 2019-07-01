@@ -1,7 +1,9 @@
-import Link from 'next/link';
+import Button from '../components/Button';
 
-const pages = ["bread_crumb", "date_idea_generator", "hack_yale", "peanut_gallery"];
+const Index = () => (
+    // <Landing />
+    <Button>LinkedIn</Button>
 
-const Index = () => pages.map(page => <Link href={`/${page}`}>{page}</Link>)
+);
 
 export default Index;
